@@ -1,12 +1,16 @@
 body {
   font-family: Arial, sans-serif;
   padding: 20px;
+background-color: palevioletred;
 }
 li {
   margin: 5px 0;
+  color:blue;
 }
 button {
   margin-left: 10px;
+  color:red;
+  background-color: blanchedalmond;
 }
 .Friend {
   color: blue;
